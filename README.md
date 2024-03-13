@@ -3,7 +3,7 @@
 Del programador --> Mi nombre es Lautaro Marguery y soy un estudiante de programacion en buscas de su primer empleo en IT . Este proyecto forma parte de mis primeros como presentacion para mi portafolio. 
 
 Sobre el proyecto : 
-Es una aplicacion que permite gestionar de manera basica una base de datos. Una interfaz basica de .Net permite sin mucho conocimiento poder agregar , modificar , buscar y leer datos. Una herramienta para quien tenga que realizar cambios pequeños en una base de datos sin tener amplios conocimientos sobre sql.
+Es una aplicacion que permite gestionar de manera basica una base de datos. Una interfaz basica de .Net permite sin mucho conocimiento poder agregar , modificar , buscar y leer datos. Una herramienta para quien tenga que realizar cambios pequeños en una base de datos sin tener amplios conocimientos sobre sql. Sirve para otras tablas la base de datos debe nombrarse BD .
 
 1) PERMITE LEER TODA LA BASE.
 
