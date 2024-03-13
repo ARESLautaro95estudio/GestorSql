@@ -9,7 +9,7 @@ Es una aplicacion que permite gestionar de manera basica una base de datos. Una 
 
 ![Captura de pantalla 2024-03-13 161045](https://github.com/ARESLautaro95estudio/GestorSql/assets/30993136/bddb7039-88ae-402f-bef9-666bd5e56828)
 
-2) .
+2) PERMITE BUSCAR INFORMACION.
    ![Captura de pantalla 2024-03-13 161111](https://github.com/ARESLautaro95estudio/GestorSql/assets/30993136/2f6dbe0d-5a83-4b5f-8ad7-37edc14b4a15)
 
 
