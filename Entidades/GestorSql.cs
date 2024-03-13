@@ -18,7 +18,7 @@ namespace Entidades
         /// </summary>
         static GestorSql()
         {
-            GestorSql.conexion = $"Server=.\\MSSQLSERVER01 ;Database=Crudyoutube;Trusted_Connection =true";
+            GestorSql.conexion = $"Server=.\\MSSQLSERVER01 ;Database=BD;Trusted_Connection =true";
         }//FDC
 
         /// <summary>
