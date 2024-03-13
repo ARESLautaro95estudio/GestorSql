@@ -13,11 +13,14 @@ Es una aplicacion que permite gestionar de manera basica una base de datos. Una 
    ![Captura de pantalla 2024-03-13 161111](https://github.com/ARESLautaro95estudio/GestorSql/assets/30993136/2f6dbe0d-5a83-4b5f-8ad7-37edc14b4a15)
 
 
-3) .
+3) PERMITE MODIFICAR DATOS.
    ![Captura de pantalla 2024-03-13 161149](https://github.com/ARESLautaro95estudio/GestorSql/assets/30993136/385bbeb3-914f-4b4b-8f11-8f32a830ad5f)
 
-4) .
+4) PERMITE CARGAR DATOS.
    
 ![Captura de pantalla 2024-03-13 161311](https://github.com/ARESLautaro95estudio/GestorSql/assets/30993136/816a7118-5a98-46e6-9b7b-f9a11a7d5dba)
 
-
+Espero que sirva , cualquier comentario es bienvenido. Saludos! .
+Contacto :
+   MAIL : l.e.marguery@gmail.com
+   Celular : (solo whasap) 1149179032 
