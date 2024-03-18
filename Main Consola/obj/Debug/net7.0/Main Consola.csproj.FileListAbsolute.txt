@@ -1,0 +1,15 @@
+C:\Users\lemar\Desktop\Portafolio\Gestor de Base\Gestor De Base de Datos\Main Consola\bin\Debug\net7.0\Main Consola.exe
+C:\Users\lemar\Desktop\Portafolio\Gestor de Base\Gestor De Base de Datos\Main Consola\bin\Debug\net7.0\Main Consola.deps.json
+C:\Users\lemar\Desktop\Portafolio\Gestor de Base\Gestor De Base de Datos\Main Consola\bin\Debug\net7.0\Main Consola.runtimeconfig.json
+C:\Users\lemar\Desktop\Portafolio\Gestor de Base\Gestor De Base de Datos\Main Consola\bin\Debug\net7.0\Main Consola.dll
+C:\Users\lemar\Desktop\Portafolio\Gestor de Base\Gestor De Base de Datos\Main Consola\bin\Debug\net7.0\Main Consola.pdb
+C:\Users\lemar\Desktop\Portafolio\Gestor de Base\Gestor De Base de Datos\Main Consola\obj\Debug\net7.0\Main Consola.csproj.AssemblyReference.cache
+C:\Users\lemar\Desktop\Portafolio\Gestor de Base\Gestor De Base de Datos\Main Consola\obj\Debug\net7.0\Main Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lemar\Desktop\Portafolio\Gestor de Base\Gestor De Base de Datos\Main Consola\obj\Debug\net7.0\Main Consola.AssemblyInfoInputs.cache
+C:\Users\lemar\Desktop\Portafolio\Gestor de Base\Gestor De Base de Datos\Main Consola\obj\Debug\net7.0\Main Consola.AssemblyInfo.cs
+C:\Users\lemar\Desktop\Portafolio\Gestor de Base\Gestor De Base de Datos\Main Consola\obj\Debug\net7.0\Main Consola.csproj.CoreCompileInputs.cache
+C:\Users\lemar\Desktop\Portafolio\Gestor de Base\Gestor De Base de Datos\Main Consola\obj\Debug\net7.0\Main Consola.dll
+C:\Users\lemar\Desktop\Portafolio\Gestor de Base\Gestor De Base de Datos\Main Consola\obj\Debug\net7.0\refint\Main Consola.dll
+C:\Users\lemar\Desktop\Portafolio\Gestor de Base\Gestor De Base de Datos\Main Consola\obj\Debug\net7.0\Main Consola.pdb
+C:\Users\lemar\Desktop\Portafolio\Gestor de Base\Gestor De Base de Datos\Main Consola\obj\Debug\net7.0\Main Consola.genruntimeconfig.cache
+C:\Users\lemar\Desktop\Portafolio\Gestor de Base\Gestor De Base de Datos\Main Consola\obj\Debug\net7.0\ref\Main Consola.dll
