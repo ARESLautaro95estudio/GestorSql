@@ -3,7 +3,7 @@
 Del programador --> Mi nombre es Lautaro Marguery y soy un estudiante de programacion en buscas de su primer empleo en IT . Este proyecto forma parte de mis primeros como presentacion para mi portafolio. 
 
 Sobre el proyecto : 
-Es una aplicacion que permite gestionar de manera basica una base de datos. Una interfaz basica de .Net permite sin mucho conocimiento poder agregar , modificar , buscar y leer datos. Una herramienta para quien tenga que realizar cambios pequeños en una base de datos sin tener amplios conocimientos sobre sql. Sirve para otras tablas la base de datos debe nombrarse BD .
+Es una aplicacion que permite gestionar de manera basica una base de datos. Una interfaz basica de .Net permite sin mucho conocimiento poder agregar , modificar , buscar y leer datos. Una herramienta para quien tenga que realizar cambios pequeños en una base de datos sin tener amplios conocimientos sobre sql. Sirve para otras tablas la base de datos debe nombrarse BD . Todas las excepciones estan controladas y documentadas.
 
 1) PERMITE LEER TODA LA BASE.
 
@@ -20,6 +20,7 @@ Es una aplicacion que permite gestionar de manera basica una base de datos. Una 
    
 ![Captura de pantalla 2024-03-13 161311](https://github.com/ARESLautaro95estudio/GestorSql/assets/30993136/816a7118-5a98-46e6-9b7b-f9a11a7d5dba)
 
+ACTUALIZACION : Agregue un formulario que permite crear una tabla , esta en proceso faltan unos detalles. 
 Espero que sirva , cualquier comentario es bienvenido. Saludos! .
 Contacto :
    MAIL : l.e.marguery@gmail.com
